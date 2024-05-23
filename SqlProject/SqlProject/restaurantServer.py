@@ -6,7 +6,7 @@ from mysql.connector import Error
 # Database connection parameters
 db_name = "restaurant"
 db_user = "root"
-db_password = "root"
+db_password = "Yemen123"
 db_host = "localhost"
 db_port = "3306"
 
